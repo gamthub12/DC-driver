@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+5 Pin=JP5-1
+Removed Pin From Net: NetName=GND Pin=JP5-2
+Removed Pin From Net: NetName=encoder Pin=JP5-3
+Removed Member From Class: ClassName=Sheet2 Member=JP5
+Added Component: Designator=J?(JP3)
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=encoder Pin=J?-3
+Added Member To Class: ClassName=Sheet2 Member=Component J? Jumper 3

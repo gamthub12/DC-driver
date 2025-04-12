@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=R2-1
+Removed Pin From Net: NetName=+5 Pin=R2-2
+Change Component Footprint: Designator=R2 Old Footprint=SM-1206 New Footprint=tro vach 2w
+Change component parameters: Designator = "R2" ("R2"); Footprint = "SM-1206"; UniqueID = "\INOXKGAI" ("\INOXKGAI")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006358"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 2w 10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2

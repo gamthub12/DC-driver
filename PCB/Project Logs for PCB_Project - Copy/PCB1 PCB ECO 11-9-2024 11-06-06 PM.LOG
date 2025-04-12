@@ -1,0 +1,11 @@
+Added Component: Designator=VR1(BIEN TRO VI CHINH NAM)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Bi?n Tr? VR 102-1K 3296W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=LCD1-3
+Added Pin To Net: NetName=5V Pin=VR1-1
+Added Pin To Net: NetName=5V Pin=VR1-3
+Added Member To Class: ClassName=Sheet2 Member=Component VR1 1K

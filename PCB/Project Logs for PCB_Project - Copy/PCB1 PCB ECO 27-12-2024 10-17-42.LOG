@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=OUT1 Pin=D1-1
+Removed Pin From Net: NetName=+12 Pin=D1-2
+Removed Pin From Net: NetName=OUT2 Pin=D2-1
+Removed Pin From Net: NetName=+12 Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=OUT1 Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=OUT2 Pin=D4-2
+Removed Pin From Net: NetName=+5 Pin=JP?-1
+Removed Pin From Net: NetName=GND Pin=JP?-3
+Removed Member From Class: ClassName=Sheet2 Member=D1
+Removed Member From Class: ClassName=Sheet2 Member=D2
+Removed Member From Class: ClassName=Sheet2 Member=D3
+Removed Member From Class: ClassName=Sheet2 Member=D4
+Removed Member From Class: ClassName=Sheet2 Member=JP?
+Added Component: Designator=D?(DIODE 0.5A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4148 DO35 450mA 100V ( 1N4148 DIP)"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE 0.5A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4148 DO35 450mA 100V ( 1N4148 DIP)"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE 0.5A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4148 DO35 450mA 100V ( 1N4148 DIP)"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE 0.5A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4148 DO35 450mA 100V ( 1N4148 DIP)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=OUT1 Pin=D?-1
+Added Pin To Net: NetName=OUT2 Pin=D?-1
+Added Pin To Net: NetName=+12 Pin=D?-2
+Added Pin To Net: NetName=+12 Pin=D?-2
+Added Pin To Net: NetName=OUT1 Pin=D?-2
+Added Pin To Net: NetName=OUT2 Pin=D?-2
+Added Pin To Net: NetName=C1 Pin=IC3-24
+Added Net: Name=C1
+Added Member To Class: ClassName=Sheet2 Member=Component D? 100v
+Added Member To Class: ClassName=Sheet2 Member=Component D? 100v
+Added Member To Class: ClassName=Sheet2 Member=Component D? 100v
+Added Member To Class: ClassName=Sheet2 Member=Component D? 100v

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=encoder Pin=JP?-2
+Removed Pin From Net: NetName=GND Pin=JP?-3
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=encoder Pin=JP?-3
+Added Member To Class: ClassName=Sheet2 Member=Component IC3 ATmega8-L

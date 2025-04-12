@@ -1,0 +1,145 @@
+Add Component: Footprint Not Found CON2
+Add Component: Footprint Not Found CP1.5/3.4
+Add Component: Footprint Not Found CP1.5/3.4
+Add Component: Footprint Not Found CP1/2
+Add Component: Footprint Not Found CN1
+Add Component: Footprint Not Found CN1
+Add Component: Footprint Not Found D1A
+Add Component: Footprint Not Found D1A
+Add Component: Footprint Not Found D1A
+Add Component: Footprint Not Found D1A
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found DIP15SL2
+Add Component: Footprint Not Found QTO-220
+Add Component: Footprint Not Found DIP28/W0.3
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found LCD16X2
+Add Component: Footprint Not Found LED-3
+Add Component: Footprint Not Found CON2
+Add Component: Footprint Not Found R1/4W
+Added Component: Designator=R2(tro vach 1/2w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 5% 1/2w 10k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SW2
+Add Component: Footprint Not Found SW2
+Added Component: Designator=VR1(BIEN TRO VI CHINH NAM)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Bi?n Tr? VR 102-1K 3296W"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XT2
+Add Pin To Net: Unknown Pin: Pin 12V source-1
+Add Pin To Net: Unknown Pin: Pin 12V source-2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin Cx1-1
+Add Pin To Net: Unknown Pin: Pin Cx1-2
+Add Pin To Net: Unknown Pin: Pin Cx2-1
+Add Pin To Net: Unknown Pin: Pin Cx2-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin Decrease1-1
+Add Pin To Net: Unknown Pin: Pin Decrease1-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC2-1
+Add Pin To Net: Unknown Pin: Pin IC2-2
+Add Pin To Net: Unknown Pin: Pin IC2-3
+Add Pin To Net: Unknown Pin: Pin IC3-1
+Add Pin To Net: Unknown Pin: Pin IC3-2
+Add Pin To Net: Unknown Pin: Pin IC3-4
+Add Pin To Net: Unknown Pin: Pin IC3-6
+Add Pin To Net: Unknown Pin: Pin IC3-7
+Add Pin To Net: Unknown Pin: Pin IC3-8
+Add Pin To Net: Unknown Pin: Pin IC3-9
+Add Pin To Net: Unknown Pin: Pin IC3-10
+Add Pin To Net: Unknown Pin: Pin IC3-11
+Add Pin To Net: Unknown Pin: Pin IC3-12
+Add Pin To Net: Unknown Pin: Pin IC3-13
+Add Pin To Net: Unknown Pin: Pin IC3-15
+Add Pin To Net: Unknown Pin: Pin IC3-16
+Add Pin To Net: Unknown Pin: Pin IC3-17
+Add Pin To Net: Unknown Pin: Pin IC3-18
+Add Pin To Net: Unknown Pin: Pin IC3-19
+Add Pin To Net: Unknown Pin: Pin IC3-20
+Add Pin To Net: Unknown Pin: Pin IC3-22
+Add Pin To Net: Unknown Pin: Pin IC3-27
+Add Pin To Net: Unknown Pin: Pin IC3-28
+Add Pin To Net: Unknown Pin: Pin Increase1-1
+Add Pin To Net: Unknown Pin: Pin Increase1-2
+Add Pin To Net: Unknown Pin: Pin LCD1-1
+Add Pin To Net: Unknown Pin: Pin LCD1-2
+Add Pin To Net: Unknown Pin: Pin LCD1-3
+Add Pin To Net: Unknown Pin: Pin LCD1-4
+Add Pin To Net: Unknown Pin: Pin LCD1-5
+Add Pin To Net: Unknown Pin: Pin LCD1-6
+Add Pin To Net: Unknown Pin: Pin LCD1-11
+Add Pin To Net: Unknown Pin: Pin LCD1-12
+Add Pin To Net: Unknown Pin: Pin LCD1-13
+Add Pin To Net: Unknown Pin: Pin LCD1-14
+Add Pin To Net: Unknown Pin: Pin LCD1-15
+Add Pin To Net: Unknown Pin: Pin LCD1-16
+Add Pin To Net: Unknown Pin: Pin LED1-1
+Add Pin To Net: Unknown Pin: Pin LED1-2
+Add Pin To Net: Unknown Pin: Pin Output motor1-1
+Add Pin To Net: Unknown Pin: Pin Output motor1-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Pin To Net: NetName=+5 Pin=R2-2
+Add Pin To Net: Unknown Pin: Pin Start/Invert1-1
+Add Pin To Net: Unknown Pin: Pin Start/Invert1-2
+Add Pin To Net: Unknown Pin: Pin Stop1-1
+Add Pin To Net: Unknown Pin: Pin Stop1-2
+Added Pin To Net: NetName=+5 Pin=VR1-1
+Added Pin To Net: NetName=VR Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Class Member: Failed to add class member : Component 12V source JP2
+Add Class Member: Failed to add class member : Component C1 220uF/35V
+Add Class Member: Failed to add class member : Component C2 220uF/35V
+Add Class Member: Failed to add class member : Component C3 10uF
+Add Class Member: Failed to add class member : Component Cx1 22pF
+Add Class Member: Failed to add class member : Component Cx2 22pF
+Add Class Member: Failed to add class member : Component D1 1N4007
+Add Class Member: Failed to add class member : Component D2 1N4007
+Add Class Member: Failed to add class member : Component D3 1N4007
+Add Class Member: Failed to add class member : Component D4 1N4007
+Add Class Member: Failed to add class member : Component Decrease1 SW
+Add Class Member: Failed to add class member : Component IC1 L298
+Add Class Member: Failed to add class member : Component IC2 LM7805
+Add Class Member: Failed to add class member : Component IC3 ATmega8-L
+Add Class Member: Failed to add class member : Component Increase1 SW
+Add Class Member: Failed to add class member : Component LCD1 LCD16x2A
+Add Class Member: Failed to add class member : Component LED1 LED
+Add Class Member: Failed to add class member : Component Output motor1 JP2
+Add Class Member: Failed to add class member : Component R1 220R
+Added Member To Class: ClassName=Sheet2 Member=Component R2 10k
+Add Class Member: Failed to add class member : Component Start/Invert1 SW
+Add Class Member: Failed to add class member : Component Stop1 SW
+Added Member To Class: ClassName=Sheet2 Member=Component VR1 1K
+Add Class Member: Failed to add class member : Component X1 16Mhz

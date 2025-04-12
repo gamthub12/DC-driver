@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+5 Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=encoder Pin=J?-3
+Change Component Footprint: Designator=J? Old Footprint=JP3 New Footprint=J3-1
+Change Component Comment : Designator=J? Old Comment=Jumper 3 New Comment=Jumper 3-1
+Change component parameters: Designator = "J?" ("J?"); Footprint = "JP3"; UniqueID = "\VGILBPMX" ("\VGILBPMX")
+Change component parameters (AddParameter): Name = "Value"; Value = "J3-1"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J3-1)
+Add component (AddParameter): Name = "Value"; Value = "J3-1"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(CON3)
+Add component (AddParameter): Name = "Value"; Value = "Connector 3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=JP?-1
+Added Pin To Net: NetName=GND Pin=JP?-2
+Added Pin To Net: NetName=encoder Pin=JP?-3
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-4
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-4
+Added Net: Name=NetJ?_3
+Added Member To Class: ClassName=Sheet2 Member=Component J? Jumper 3-1
+Added Member To Class: ClassName=Sheet2 Member=Component JP? JP3

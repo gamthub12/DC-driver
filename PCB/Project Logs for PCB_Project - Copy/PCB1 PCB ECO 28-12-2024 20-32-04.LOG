@@ -1,0 +1,9 @@
+Added Component: Designator=K?(HEADER-1X3)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S1011E-36-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=+5 Pin=K?-3
+Added Pin To Net: NetName=encoder Pin=IC3-5
+Added Pin To Net: NetName=encoder Pin=K?-1
+Added Net: Name=encoder
+Added Member To Class: ClassName=Sheet2 Member=Component K? HEADER-1X3
